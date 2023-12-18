@@ -1,1 +1,1 @@
-example,second-example
+example,second example
