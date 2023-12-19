@@ -12,6 +12,6 @@ Once you create a new branch from main, with the brand name being the name of th
    - The name of the folder should be lowercased
    - Ignore apostrophes
    - Should contain dashes where the space should be in the brand name, e.g `mr write` should be `mr-write`
-- Once created, inside this folder, you should upload two files, with the example name and convention the same as the folder it lives in. E.g `example/example.txt` , `booboo/booboo.png`
+- Once created, inside this folder, you should upload two files, with the example name and convention the same as the folder it lives in. E.g `example/example.txt` , `dr-pepper/dr-pepper.png`
    - A .png file of the brand logo (should ideally be less than 20kb and around 240 X 240 pixels in size - if you need help with that one of us can provide it 👍)
    - A .txt file, which contains the evidence that this brand partakes in aiding evil/wrongdoing.
