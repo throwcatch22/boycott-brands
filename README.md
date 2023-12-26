@@ -19,9 +19,9 @@ Once you create a new branch from main, with the brand name being the name of th
    - A .txt file, which contains the evidence that this brand partakes in aiding evil/wrongdoing.
  
 #### Via the website
-No technies can contribute to the list by filling the information on the text boxes as shown below. On the `Alternatives` text box, please press the "Enter" key after adding an alternative, to be able to enter multiple inputs.
+No technies can contribute to the list by filling the information on the text boxes as shown below. On the `Alternatives` text box, please use commas to seperate between alternatives.
 
-![image](https://github.com/throwcatch22/boycott-brands/assets/154080416/5d3ee7f4-236e-4a25-84e5-9ac3cfe1b427)
+![image](https://github.com/throwcatch22/boycott-brands/assets/154080416/456d8c65-8cf5-403f-9ec5-874f4a844540)
 
 Once you click the submit button, if successful, it will take you back to the home page with a success notification.
 
