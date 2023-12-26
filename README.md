@@ -2,6 +2,8 @@
 Brands that support genocide, murder and mass destitution are named and shamed here
 
 ### How to contribute
+
+#### Via github
 Once you create a new branch from main, with the brand name being the name of the brand, there will be three things to do.
 - Append the name of the brand into `the-list.txt` file, some rules for adding the brand name are as follows
    - Add a comma when adding a new brand entry, e.g `example,example2,new example`. With no space between the commas
@@ -15,3 +17,13 @@ Once you create a new branch from main, with the brand name being the name of th
 - Once created, inside this folder, you should upload two files, with the example name and convention the same as the folder it lives in. E.g `example/example.txt` , `dr-pepper/dr-pepper.png`
    - A .png file of the brand logo (should ideally be less than 20kb and around 240 X 240 pixels in size - if you need help with that one of us can provide it 👍)
    - A .txt file, which contains the evidence that this brand partakes in aiding evil/wrongdoing.
+ 
+#### Via the website
+No technies can contribute to the list by filling the information on the text boxes as shown below. On the `Alternatives` text box, please press the "Enter" key after adding an alternative, to be able to enter multiple inputs.
+
+![image](https://github.com/throwcatch22/boycott-brands/assets/154080416/5d3ee7f4-236e-4a25-84e5-9ac3cfe1b427)
+
+Once you click the submit button, if successful, it will take you back to the home page with a success notification.
+
+
+Thank you for contributing, it means alot to be able to add or even think of adding a brand. We can one day, through this or any other means, have the power again to stop evil in this world. Believe!
