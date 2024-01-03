@@ -7,11 +7,11 @@ Brands that support genocide, murder and mass destitution are named and shamed h
 Once you create a new branch from main, with the brand name being the name of the brand, there will be three things to do.
 - Append the name of the brand into `the-list.md` file, some rules for adding the brand name are as follows
    - Add a comma when adding a new brand entry, e.g `example,example2,new example`. With no space between the commas
-   - The name should be all lowercased
+   - The name of the folder and files should all have consistent casing with what is in `the-list.txt`
    - If the name consists of two or more words, the expected format should have normal spacing between them (no double spacing)
    - Ignore any apostrophes in the word, e.g instead of `Denny's` you would include it as `Dennys`, and words that include accents like `Café` would be removed and be `Cafe`
 - Create a new folder, residing in the `brands` directory
-   - The name of the folder should be lowercased
+   - The name of the folder and files should all have consistent casing with what is in `the-list.txt`
    - Ignore apostrophes and accents as above
    - Should contain dashes where the space should be in the brand name, e.g `mr write` should be `mr-write`
 - Once created, inside this folder, you should upload two files, with the example name and convention the same as the folder it lives in. E.g `example/example.md` , `dr-pepper/dr-pepper.png`
