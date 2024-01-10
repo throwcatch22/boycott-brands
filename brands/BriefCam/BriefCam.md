@@ -1,0 +1,1 @@
+The findings on BriefCam, based in East Jerusalem, are based on the Who Profits Research Center, an independent research center dedicated to exposing the commercial involvement of Israeli and international corporations in the ongoing Israeli occupation of Palestinian and Syrian land and population. Link to the database [here](https://www.whoprofits.org/companies)
